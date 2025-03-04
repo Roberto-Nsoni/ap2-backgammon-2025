@@ -1,4 +1,4 @@
-# Primera Pràctica d'AP2: Backgammon
+# Primera Pràctica d'AP2: Backgammon.
 
 En aquesta pràctica, tindràs l'oportunitat de desenvolupar el nucli d'un servidor de Backgammon.
 
